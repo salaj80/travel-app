@@ -7,8 +7,6 @@
 
     --primary-dark: #1691ca;
     --primary-light: #00b7ff;
-    /* --primary-dark: #5651e5;
-    --primary-light: #709dff; */
 }
 .icon{
     color: var(--primary-dark);
